@@ -1,11 +1,5 @@
 # Alpine Linux Node.js Docker Image
 
-Alpine Linux: 3.4
-
-Node.js: 6.2.0
-
-Size: 34.22 MB
-
 ## Node.js 6.2.0
 #### Specs:
 Alpine Linux: 3.4
