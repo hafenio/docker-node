@@ -1,2 +1,2 @@
 FROM alpine:3.4
-RUN apk add --update --no-cache nodejs
+RUN apk add --update --no-cache libstdc++ nodejs
